@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/special-waddle/static/js/main.e2481d05.chunk.js",
+    "main.js.map": "/special-waddle/static/js/main.e2481d05.chunk.js.map",
+    "runtime-main.js": "/special-waddle/static/js/runtime-main.a089a340.js",
+    "runtime-main.js.map": "/special-waddle/static/js/runtime-main.a089a340.js.map",
+    "static/js/2.b8ac4d01.chunk.js": "/special-waddle/static/js/2.b8ac4d01.chunk.js",
+    "static/js/2.b8ac4d01.chunk.js.map": "/special-waddle/static/js/2.b8ac4d01.chunk.js.map",
+    "static/js/3.d254e3cd.chunk.js": "/special-waddle/static/js/3.d254e3cd.chunk.js",
+    "static/js/3.d254e3cd.chunk.js.map": "/special-waddle/static/js/3.d254e3cd.chunk.js.map",
+    "index.html": "/special-waddle/index.html",
+    "static/js/2.b8ac4d01.chunk.js.LICENSE.txt": "/special-waddle/static/js/2.b8ac4d01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a089a340.js",
+    "static/js/2.b8ac4d01.chunk.js",
+    "static/js/main.e2481d05.chunk.js"
+  ]
+}
