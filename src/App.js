@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import About from "./containers/About/About";
 import Contact from "./containers/Contact/Contact";
@@ -7,7 +7,7 @@ import Home from "./containers/Home/Home";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/">
         <Navbar />
         <Switch>
           <Route path="/about" component={About} />

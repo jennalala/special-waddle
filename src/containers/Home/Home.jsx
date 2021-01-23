@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div>
             <h1>This is my home page. </h1>
-            <Link className="btn btn-primary" to="/about">Read About Me!</Link>
+            <Link className="btn btn-success" to="/about">Read About Me!</Link>
         </div>
     );
 };
